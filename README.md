@@ -6,6 +6,12 @@
 I am a student of AI and machine learning.
 
 ---
+## Färdigheter
+
+- Python
+- R
+
+---
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
