@@ -9,6 +9,7 @@ I am a student of AI and machine learning.
 ## Färdigheter
 
 - Python
+- Jupyter notebook
 - R
 
 ---
